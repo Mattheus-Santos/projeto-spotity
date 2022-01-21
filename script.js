@@ -6,14 +6,11 @@ let musicas = [
     {titulo:'Night Snow', artista:'Asher Fulero', src:'musicas/Night Snow - Asher Fulero.mp3', img:'imagens/pexels-pixabay-210764.jpg'},
     {titulo:'No.6 In My Dreams', artista:'Esther Abrami', src:'musicas/No.6 In My Dreams - Esther Abrami.mp3', img:'imagens/pexels-pixabay-210764.jpg'},
     {titulo:'No.7 Alone With My Thoughts', artista:'Esther Abrami', src:'musicas/No.7 Alone With My Thoughts - Esther Abrami.mp3', img:'imagens/pexels-pixabay-210764.jpg'},
-    {titulo:'Noctune', artista:'Asher Fulero', src:'musicas/Nocturne - Asher Fulero.mp3', img:'imagens/pexels-pixabay-210764.jpg'},
-    {titulo:'Shadoma', artista:'Mini Vandals', src:'musicas/Shadoma - Mini Vandals.mp3', img:'imagens/pexels-pixabay-210764.jpg'},
     {titulo:'Sonatina No 2 in F Major Rondo', artista:'Joel Cummins', src:'musicas/Sonatina No 2 in F Major Rondo - Joel Cummins.mp3', img:'imagens/pexels-pixabay-210764.jpg'},
     {titulo:'Star Spangled Banner', artista:'Cooper Cannell', src:'musicas/Star Spangled Banner - Cooper Cannell.mp3', img:'imagens/pexels-pixabay-210764.jpg'},
     {titulo:'To Loom Is to Love', artista:'Mini Vandals', src:'musicas/To Loom Is to Love - Mini Vandals.mp3', img:'imagens/pexels-pixabay-210764.jpg'},
     {titulo:'Vespers on the Shore', artista:'Mini Vandals', src:'musicas/Vespers on the Shore - Mini Vandals.mp3', img:'imagens/pexels-pixabay-210764.jpg'},
-    {titulo:'Wandering Soul', artista:'Asher Fulero', src:'musicas/Wandering Soul - Asher Fulero.mp3', img:'imagens/pexels-pixabay-210764.jpg'},
-    {titulo:'News Room News', artista:'Spence', src:'musicas/News Room News - Spence.mp3', img:'imagens/pexels-pixabay-210764.jpg'},
+    
    
 ];
 
